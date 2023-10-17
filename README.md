@@ -1,2 +1,4 @@
 # srvmgr
 services manager
+
+SRVMGR
